@@ -4,7 +4,7 @@
     "node": "18.x"
   },
   "dependencies": {
-    "puppeteer-core": "^14.4.1",
+    "puppeteer-core": "^25.16.0",
     "@twemoji/api": "^15"
   }
 }
